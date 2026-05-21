@@ -1,6 +1,6 @@
 # nextjs-seo-skill
 
-> A structured AI skill for generating SEO-optimized metadata, structured data, and content in Next.js App Router projects.
+> AI-powered Next.js SEO skill for metadata, structured data, content optimization, keyword research, and search-friendly page generation.
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -22,7 +22,7 @@ Five options if you want to fork or adapt this under a different name:
 
 ## Short description
 
-An AI skill that helps developers and content teams build SEO-optimized Next.js pages — `generateMetadata`, JSON-LD schemas, Open Graph, Twitter Cards, content outlines, technical SEO, and more.
+AI-powered Next.js SEO skill for metadata, structured data, content optimization, keyword research, and search-friendly page generation.
 
 ---
 
