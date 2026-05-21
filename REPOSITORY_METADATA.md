@@ -4,6 +4,15 @@ Use this file when setting up the GitHub repository. Delete it after setup.
 
 ---
 
+## Author
+
+- **GitHub username**: `developerasaad`
+- **Email**: `developer.asaad@gmail.com`
+- **GitHub profile**: `https://github.com/developerasaad`
+- **Repository URL**: `https://github.com/developerasaad/nextjs-seo-skill`
+
+---
+
 ## Best repository name
 
 **`nextjs-seo-skill`**
