@@ -31,9 +31,9 @@ Use this file when setting up the GitHub repository. Delete it after setup.
 ## GitHub repository description (160 characters max)
 
 ```
-AI-powered Next.js SEO skill for metadata, structured data, content optimization, keyword research, and search-friendly page generation.
+AI skill for Next.js SEO: generateMetadata, JSON-LD schemas, Open Graph, keyword research, content briefs, and technical SEO patterns for the App Router.
 ```
-*(136 characters)*
+*(155 characters)*
 
 ---
 
@@ -59,34 +59,34 @@ generateMetadata · JSON-LD · Open Graph · Keyword Research · Core Web Vitals
 
 ```
 nextjs
+next-js
+app-router
 seo
 search-engine-optimization
 technical-seo
+on-page-seo
 metadata
+generate-metadata
+open-graph
+twitter-card
 json-ld
 schema-markup
 structured-data
-open-graph
-twitter-cards
-app-router
-content-marketing
+jsonld
 keyword-research
-serp
-web-performance
-core-web-vitals
-website-optimization
-developer-tools
-ai-workflows
-marketing
+content-marketing
 content-strategy
-blogging
-landing-pages
+blog-optimization
+landing-page
+internal-linking
+core-web-vitals
+eeat
+e-e-a-t
 typescript
 react
-headless-cms
-canonical-url
-faq-schema
-seo-automation
+developer-tools
+ai-workflow
+skill
 nextjs-seo
 ```
 
